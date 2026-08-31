@@ -1,0 +1,7 @@
+git init --> inicia el local repo
+git status --> estado actual del repo/rama
+git branch -M [nombre] -->cambia el nombre de la rama actual
+git branch --list --> listar ramas locales
+git branch --all --> listar ramas locales y remotas
+git remote add origin [link] --> agregar un vinculo remoto para el repositorio
+git push -u origin [nombre-rama] --> "sube" la rama local 
